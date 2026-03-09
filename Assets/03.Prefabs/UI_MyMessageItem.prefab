@@ -14,7 +14,7 @@ GameObject:
   - component: {fileID: 8726520517035113334}
   - component: {fileID: 72312847229525827}
   m_Layer: 5
-  m_Name: Box
+  m_Name: MyMessageBox
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -39,7 +39,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 355, y: -134.03}
+  m_AnchoredPosition: {x: 355, y: -42.1875}
   m_SizeDelta: {x: 300, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1286542386995166500
@@ -132,7 +132,7 @@ GameObject:
   - component: {fileID: 683020466674897520}
   - component: {fileID: 3158267871258534001}
   m_Layer: 5
-  m_Name: YellowArea
+  m_Name: UI_MyMessageItem
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -369,7 +369,7 @@ GameObject:
   - component: {fileID: 98645257759211937}
   - component: {fileID: 8437715493233431988}
   m_Layer: 5
-  m_Name: Tail
+  m_Name: MyMessageTail
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -464,7 +464,7 @@ GameObject:
   - component: {fileID: 8893342503377662518}
   - component: {fileID: 4696107243857792867}
   m_Layer: 5
-  m_Name: ChatText
+  m_Name: MyMessageText
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -517,7 +517,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "\u3147\u3147\u3147\u3147\u3147\u3147\u3147\u3147\u3147\u3147\u3147\u3147\u3147\u3147\u3147\u3147\u3147\u3147\u3147\u3147\u3147\u3147\u3147\u3147\u3147\u3147\u3147\u3147"
+  m_text: 
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: eef20f9560a9b4d49a127546296741d0, type: 2}
   m_sharedMaterial: {fileID: 4712344409497361693, guid: eef20f9560a9b4d49a127546296741d0, type: 2}

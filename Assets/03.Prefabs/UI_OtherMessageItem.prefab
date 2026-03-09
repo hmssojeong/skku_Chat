@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 7942126821247491547}
   - component: {fileID: 4356064352563881148}
   m_Layer: 5
-  m_Name: UserText
+  m_Name: OtherMessageText
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -149,7 +149,7 @@ GameObject:
   - component: {fileID: 7912071286659357895}
   - component: {fileID: 6639677366958895673}
   m_Layer: 5
-  m_Name: WhiteArea
+  m_Name: UI_OtherMessageItem
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -231,7 +231,7 @@ GameObject:
   - component: {fileID: 2022568635501763288}
   - component: {fileID: 446757826211388929}
   m_Layer: 5
-  m_Name: Box
+  m_Name: OtherMessageBox
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -350,7 +350,7 @@ GameObject:
   - component: {fileID: 9185969198732776332}
   - component: {fileID: 8305645306695210649}
   m_Layer: 5
-  m_Name: UserImage
+  m_Name: OtherUserImage
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -445,7 +445,7 @@ GameObject:
   - component: {fileID: 2420916317284991369}
   - component: {fileID: 2463229608134354564}
   m_Layer: 5
-  m_Name: ChatText
+  m_Name: OtherMessageText
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -584,7 +584,7 @@ GameObject:
   - component: {fileID: 7605901332998327010}
   - component: {fileID: 2216095212091305632}
   m_Layer: 5
-  m_Name: UserMask
+  m_Name: OtherUserMask
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -694,7 +694,7 @@ GameObject:
   - component: {fileID: 7600795221694885741}
   - component: {fileID: 9097828525281422756}
   m_Layer: 5
-  m_Name: Tail
+  m_Name: OtherMessageTail
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
