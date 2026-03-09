@@ -156,7 +156,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 1}
   m_AnchorMax: {x: 0.5, y: 1}
-  m_AnchoredPosition: {x: 0, y: -65.2}
+  m_AnchoredPosition: {x: 0, y: -65.20001}
   m_SizeDelta: {x: 540, y: 70}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &45290973
@@ -1538,7 +1538,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2919561880249811974, guid: 891f8dd186ceeac40b8dd62d1e5f0377, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: -134.03
+      value: -42.1875
       objectReference: {fileID: 0}
     - target: {fileID: 3557360273871715274, guid: 891f8dd186ceeac40b8dd62d1e5f0377, type: 3}
       propertyPath: m_Name
@@ -1546,11 +1546,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4696107243857792867, guid: 891f8dd186ceeac40b8dd62d1e5f0377, type: 3}
       propertyPath: m_text
-      value: "\u3147\u3147\u3147\u3147\u3147\u3147\u3147\u3147\u3147\u3147\u3147\u3147\u3147\u3147\u3147\u3147\u3147\u3147\u3147\u3147\u3147\u3147\u3147\u3147\u3147\u3147\u3147\u3147"
-      objectReference: {fileID: 0}
-    - target: {fileID: 5032674529150651242, guid: 891f8dd186ceeac40b8dd62d1e5f0377, type: 3}
-      propertyPath: m_AnchoredPosition.y
-      value: -0.1000061
+      value: 
       objectReference: {fileID: 0}
     - target: {fileID: 5184138882448707232, guid: 891f8dd186ceeac40b8dd62d1e5f0377, type: 3}
       propertyPath: m_Pivot.x
@@ -1618,7 +1614,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5184138882448707232, guid: 891f8dd186ceeac40b8dd62d1e5f0377, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: -381.405
+      value: -289.5625
       objectReference: {fileID: 0}
     - target: {fileID: 5184138882448707232, guid: 891f8dd186ceeac40b8dd62d1e5f0377, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
@@ -2759,7 +2755,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "<u>\u3147</u>\u200B"
+  m_text: "\u200B"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: eef20f9560a9b4d49a127546296741d0, type: 2}
   m_sharedMaterial: {fileID: 4712344409497361693, guid: eef20f9560a9b4d49a127546296741d0, type: 2}
@@ -3067,7 +3063,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2084523018}
-  m_Enabled: 0
+  m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
   m_Name: 
