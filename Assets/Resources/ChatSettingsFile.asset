@@ -13,4 +13,4 @@ MonoBehaviour:
   m_Name: ChatSettingsFile
   m_EditorClassIdentifier: Assembly-CSharp::Photon.Chat.DemoChat.ChatSettings
   AppId: 
-  WizardDone: 0
+  WizardDone: 1
